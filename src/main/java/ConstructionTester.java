@@ -5,6 +5,7 @@ public class ConstructionTester
     public static void main(String[] args)
     {
         // Start here!
+        /*
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the sales tax rate: ");
         double taxRate = in.nextDouble(); 
@@ -20,5 +21,6 @@ public class ConstructionTester
 
         double grandTotal = myConstruct.grandTotal(totalCost); 
         System.out.println("Grand Total: " + grandTotal);
+        */
     }
 }
